@@ -1,17 +1,17 @@
 {
   "data":{
-    "name":"Mitel 53xx Models: [5304, 5312, 5320, 5324, 5330, 5340, 5360]",
-    "id":"1",
-    "directory":"53xx",
+    "name":"Mitel 52xx Models: [5204, 5212, 5220, 5224, 5230, 5240, 5260]",
+    "id":"2",
+    "directory":"52xx",
     "firmware_ver":"",
     "firmware_pkg":"NULL",
     "firmware_md5sum":"",
-    "description":"Variables Issues Solved (Not writing accounts + passwords in files)",
+    "description":"Custom Addition By Ross Lindsay",
     "configuration_files":"MN_Generic.cfg,MN_$mac.cfg",
     "changelog":"",
     "model_list":[
       {
-        "model":"5304",
+        "model":"5204",
         "lines":"2",
         "id":"1",
         "template_data":[
@@ -19,7 +19,7 @@
         ]
       },
       {
-        "model":"5312",
+        "model":"5212",
         "lines":"2",
         "id":"2",
         "template_data":[
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "model":"5320",
+        "model":"5220",
         "lines":"2",
         "id":"3",
         "template_data":[
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "model":"5324",
+        "model":"5224",
         "lines":"2",
         "id":"4",
         "template_data":[
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "model":"5330",
+        "model":"5230",
         "lines":"2",
         "id":"5",
         "template_data":[
@@ -51,7 +51,7 @@
         ]
       },
       {
-        "model":"5340",
+        "model":"5240",
         "lines":"2",
         "id":"6",
         "template_data":[
@@ -59,7 +59,7 @@
         ]
       },
       {
-        "model":"5360",
+        "model":"5260",
         "lines":"2",
         "id":"7",
         "template_data":[

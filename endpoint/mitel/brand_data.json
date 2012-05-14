@@ -10,9 +10,17 @@
       "family_list": [
         {
           "id": "1",
-          "name": "Mitel 5xxx Models: [5304, 5312, 5320, 5324, 5330, 5340, 5360]",
+          "name": "Mitel 53xx Models: [5304, 5312, 5320, 5324, 5330, 5340, 5360]",
           "directory": "53xx",
           "description": "Variables Issues Solved (Not writing accounts + passwords in files)",
+          "changelog": "",
+          "last_modified": null
+        },
+	{
+          "id": "2",
+          "name": "Mitel 52xx Models: [5204, 5212, 5220, 5224, 5230, 5240, 5260]",
+          "directory": "52xx",
+          "description": "Created for EPM by Ross Lindsay",
           "changelog": "",
           "last_modified": null
         }
@@ -20,7 +28,7 @@
       "oui_list": [
         "08000F"
       ],
-      "changelog": "PACKAGER: Cisco\n-Don't set loadInformation if its not a sip79x1G"
+      "changelog": "Support for Mitel 52xx models by Ross Lindsay"
     }
   }
 }
